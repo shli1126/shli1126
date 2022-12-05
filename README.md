@@ -3,16 +3,18 @@
 
 About me 
 ----
-Education:
+*Education*:
 [**University of California San Diego**][ur] Major: Cognitive Science & Minor: Computer Science '23  
 [ur]: https://ucsd.edu/
 
-Skill:
+*Skill*:
 :pinched_fingers:         **Java**
 :pinched_fingers:         **Python** 
 :pinched_fingers:         **C++**
 
-
+*Hobbies*
+:movie_camera:  
+:headphones:
 
 
 - 📫 How to reach me: 
