@@ -4,7 +4,7 @@
 About me 
 ----
 *Education*
-:[**University of California San Diego**][ur] Major: Cognitive Science & Minor: Computer Science '23  
+[**University of California San Diego**][ur] Cognitive Science '23  
 [ur]: https://ucsd.edu/
 
 
@@ -14,7 +14,7 @@ About me
 :pinched_fingers:         **Python** 
 :pinched_fingers:         **C++**
 
-*Hobbies*:
+
 :movie_camera: My favorite movie: Interstellar
 Here is my Top 10 movie list if you interested:
 <a href="https://www.douban.com/doulist/152247852/?dt_dapp=1">
