@@ -1,14 +1,19 @@
-### Hi there 👋
+### Hi there, I am Richard👋
 
 
+About me 
+----
+:[**University of California San Diego**][ur] Major: Cognitive Science  Minor: Computer Science '23  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[ur]: https://ucsd.edu/
+
+- 📫 How to reach me: 
+<a href="https://instagram.com/shli_rili?igshid=YmMyMTA2M2Y=">
+    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/shaolong-li-0b067a224/">
+    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
+
