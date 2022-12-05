@@ -18,7 +18,8 @@ Skill:
 :pinched_fingers:         **Java**
 :pinched_fingers:         **Python** 
 :pinched_fingers:         **C++**
-
+:pinched_fingers:         **JavaScript (Node.js, Vue.js)**
+:pinched_fingers:         **HTML**
 
 
 What I like:
