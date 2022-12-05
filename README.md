@@ -15,11 +15,11 @@ Education:
 
 Skill:
 -----
-        **Java**
-        **Python** 
-        **C++**
-        **JavaScript (Node.js, Vue.js)**
-       **HTML**
+:hammer:               **Java**
+:axe:                  **Python** 
+:pick:                 **C++**
+:carpentry_saw:        **JavaScript (Node.js, Vue.js)**
+:wrench:               **HTML**
 
 
 What I like:
