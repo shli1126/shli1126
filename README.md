@@ -3,7 +3,9 @@
 
 About me 
 ----
+
 Education:
+-----
 [**University of California San Diego**][ur] Cognitive Science '23  
 
 
@@ -12,16 +14,19 @@ Education:
 
 
 Skill:
-----
+-----
 :pinched_fingers:         **Java**
 :pinched_fingers:         **Python** 
 :pinched_fingers:         **C++**
 
 
+
+Hobbies:
+-----
 :movie_camera: My favorite movie: Interstellar
+<br>
 Here is my Top 10 movie list if you interested:
-<a href="https://www.douban.com/doulist/152247852/?dt_dapp=1">
-</a>
+<a href="https://www.douban.com/doulist/152247852/?dt_dapp=1">top 10 movies</a>
 
 :headphones: My favorite band: Radiohead
 
