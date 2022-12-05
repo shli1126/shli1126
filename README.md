@@ -3,10 +3,17 @@
 
 About me 
 ----
-:[**University of California San Diego**][ur] Major: Cognitive Science  Minor: Computer Science '23  
-
-
+Education: [**University of California San Diego**][ur] Major: Cognitive Science & Minor: Computer Science '23  
 [ur]: https://ucsd.edu/
+
+Skills
+------
+:pinched_fingers:         **Java**
+:pinched_fingers:         **Python** 
+:pinched_fingers:         **C++**
+
+
+
 
 - 📫 How to reach me: 
 <a href="https://instagram.com/shli_rili?igshid=YmMyMTA2M2Y=">
