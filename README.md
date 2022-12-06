@@ -6,7 +6,7 @@ About me
 
 Education:
 -----
-[**University of California San Diego**][ur] Cognitive Science/Spec Machine Learning'23  
+[**University of California San Diego**][ur] Cognitive Science/Spec Machine Learning '23  
 
 
 [ur]: https://ucsd.edu/
