@@ -15,11 +15,12 @@ Education:
 
 Skill:
 -----
-:hammer:               **Java**
-:axe:                  **Python** 
-:pick:                 **C++**
-:carpentry_saw:        **JavaScript (Node.js, Vue.js)**
-:wrench:               **HTML**
+
+:hammer:               **Java**<br />
+:axe:                  **Python**<br />
+:pick:                 **C++**<br />
+:carpentry_saw:        **JavaScript (Node.js, Vue.js)**<br />
+:wrench:               **HTML**<br />
 
 
 What I like:
@@ -54,3 +55,16 @@ Here is my Top 10 movie list if you interested:
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
+<a href="https://open.spotify.com/user/epydajeacbzx3j99t1m064r08?si=e598ab36e99543bd">
+    <img height="32" align="left" alt="Instagram" src="img/icons/spotify.png" />
+</a>
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/shli1126/shli1126">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shli1126&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/shli1126/shli1126">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shli1126&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="shli1126's GitHub Stats" />
+</a>
