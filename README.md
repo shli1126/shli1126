@@ -45,7 +45,7 @@ Here is my Top 10 movie list if you interested:
 <a href="https://www.douban.com/doulist/152247852/?dt_dapp=1">top 10 movies</a>
 
 
-## 📫 How to reach me: 
+## 📫 Social Media links: 
 <a href="https://instagram.com/shli_rili?igshid=YmMyMTA2M2Y=">
     <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
