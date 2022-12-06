@@ -12,7 +12,6 @@ Education:
 [ur]: https://ucsd.edu/
 
 
-
 Skill:
 -----
 
@@ -59,6 +58,11 @@ Here is my Top 10 movie list if you interested:
     <img height="32" align="left" alt="Instagram" src="img/icons/spotify.png" />
 </a>
 
+<a href="https://discordapp.com/users/728440690765463554">
+    <img height="32" align="left" alt="Instagram" src="img/icons/discord.png" />
+</a>
+
+<br />
 
 ## &#x1f4c8; GitHub Stats
 
