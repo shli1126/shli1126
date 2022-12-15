@@ -39,7 +39,7 @@ Skill:
     <img height="32" align="left" alt="sql" src="img/icons/sql.png" />
 </a>
 
-
+<br />
 
 
 What I like:
