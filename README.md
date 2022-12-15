@@ -67,19 +67,19 @@ Here is my Top 10 movie list if you interested:
 
 ## 📫 Social Media links: 
 <a href="https://instagram.com/shli_rili?igshid=YmMyMTA2M2Y=">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+    <img height="40" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/shaolong-li-0b067a224/">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+    <img height="40" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
 <a href="https://open.spotify.com/user/epydajeacbzx3j99t1m064r08?si=e598ab36e99543bd">
-    <img height="32" align="left" alt="Instagram" src="img/icons/spotify.png" />
+    <img height="40" align="left" alt="Instagram" src="img/icons/spotify.png" />
 </a>
 
 <a href="https://discordapp.com/users/728440690765463554">
-    <img height="32" align="left" alt="Instagram" src="img/icons/discord.png" />
+    <img height="40" align="left" alt="Instagram" src="img/icons/discord.png" />
 </a>
 
 <br />
