@@ -16,27 +16,27 @@ Skill:
 -----
 
 <a href="https://www.java.com/en/">
-    <img height="32" align="left" alt="java" src="img/icons/java.png" />
+    <img height="35" align="left" alt="java" src="img/icons/java.png" />
 </a>
 
 <a href="https://www.python.org/">
-    <img height="32" align="left" alt="python" src="img/icons/python.png" />
+    <img height="35" align="left" alt="python" src="img/icons/python.png" />
 </a>
 
 <a href="https://isocpp.org/">
-    <img height="32" align="left" alt="cpp" src="img/icons/cpp.png" />
+    <img height="35" align="left" alt="cpp" src="img/icons/cpp.png" />
 </a>
 
 <a href="https://www.javascript.com/">
-    <img height="32" align="left" alt="javascript" src="img/icons/javascript.png" />
+    <img height="35" align="left" alt="javascript" src="img/icons/javascript.png" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/HTML">
-    <img height="32" align="left" alt="html" src="img/icons/html.png" />
+    <img height="35" align="left" alt="html" src="img/icons/html.png" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/SQL/">
-    <img height="32" align="left" alt="sql" src="img/icons/sql.png" />
+    <img height="35" align="left" alt="sql" src="img/icons/sql.png" />
 </a>
 
 <br />
