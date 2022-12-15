@@ -20,6 +20,7 @@ Skill:
 :pick:                 **C++**<br />
 :carpentry_saw:        **JavaScript (Node.js, Vue.js)**<br />
 :wrench:               **HTML**<br />
+:battery:              **SQL(currently learing)**<br />
 
 
 What I like:
