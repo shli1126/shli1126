@@ -6,7 +6,7 @@ About me
 
 Education:
 -----
-[**University of California San Diego**][ur] Cognitive Science '23  
+[**University of California San Diego**][ur] Cognitive Science/Spec Machine Learning '23  
 
 
 [ur]: https://ucsd.edu/
@@ -15,11 +15,31 @@ Education:
 Skill:
 -----
 
-:hammer:               **Java**<br />
-:axe:                  **Python**<br />
-:pick:                 **C++**<br />
-:carpentry_saw:        **JavaScript (Node.js, Vue.js)**<br />
-:wrench:               **HTML**<br />
+<a href="https://www.java.com/en/">
+    <img height="32" align="left" alt="java" src="img/icons/java.png" />
+</a>
+
+<a href="https://www.python.org/">
+    <img height="32" align="left" alt="python" src="img/icons/python.png" />
+</a>
+
+<a href="https://isocpp.org/">
+    <img height="32" align="left" alt="cpp" src="img/icons/cpp.png" />
+</a>
+
+<a href="https://www.javascript.com/">
+    <img height="32" align="left" alt="javascript" src="img/icons/javascript.png" />
+</a>
+
+<a href="https://en.wikipedia.org/wiki/HTML">
+    <img height="32" align="left" alt="html" src="img/icons/html.png" />
+</a>
+
+<a href="https://en.wikipedia.org/wiki/SQL/">
+    <img height="32" align="left" alt="sql" src="img/icons/sql.png" />
+</a>
+
+<br />
 
 
 What I like:
@@ -45,7 +65,7 @@ Here is my Top 10 movie list if you interested:
 <a href="https://www.douban.com/doulist/152247852/?dt_dapp=1">top 10 movies</a>
 
 
-## 📫 How to reach me: 
+## 📫 Social Media links: 
 <a href="https://instagram.com/shli_rili?igshid=YmMyMTA2M2Y=">
     <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
