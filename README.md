@@ -16,29 +16,30 @@ Skill:
 -----
 
 <a href="https://www.java.com/en/">
-    <img height="32" align="left" alt="java" src="img/icons/java.png" />
+    <img height="40" align="left" alt="java" src="img/icons/java.png" />
 </a>
 
 <a href="https://www.python.org/">
-    <img height="32" align="left" alt="python" src="img/icons/python.png" />
+    <img height="40" align="left" alt="python" src="img/icons/python.png" />
 </a>
 
 <a href="https://isocpp.org/">
-    <img height="32" align="left" alt="cpp" src="img/icons/cpp.png" />
+    <img height="40" align="left" alt="cpp" src="img/icons/cpp.png" />
 </a>
 
 <a href="https://www.javascript.com/">
-    <img height="32" align="left" alt="javascript" src="img/icons/javascript.png" />
+    <img height="40" align="left" alt="javascript" src="img/icons/javascript.png" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/HTML">
-    <img height="32" align="left" alt="html" src="img/icons/html.png" />
+    <img height="40" align="left" alt="html" src="img/icons/html.png" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/SQL/">
-    <img height="32" align="left" alt="sql" src="img/icons/sql.png" />
+    <img height="40" align="left" alt="sql" src="img/icons/sql.png" />
 </a>
 
+<br />
 <br />
 
 
@@ -67,21 +68,22 @@ Here is my Top 10 movie list if you interested:
 
 ## 📫 Social Media links: 
 <a href="https://instagram.com/shli_rili?igshid=YmMyMTA2M2Y=">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+    <img height="40" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/shaolong-li-0b067a224/">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+    <img height="40" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
 <a href="https://open.spotify.com/user/epydajeacbzx3j99t1m064r08?si=e598ab36e99543bd">
-    <img height="32" align="left" alt="Instagram" src="img/icons/spotify.png" />
+    <img height="40" align="left" alt="Instagram" src="img/icons/spotify.png" />
 </a>
 
 <a href="https://discordapp.com/users/728440690765463554">
-    <img height="32" align="left" alt="Instagram" src="img/icons/discord.png" />
+    <img height="40" align="left" alt="Instagram" src="img/icons/discord.png" />
 </a>
 
+<br />
 <br />
 
 ## &#x1f4c8; GitHub Stats
