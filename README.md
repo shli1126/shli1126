@@ -38,6 +38,11 @@ Skill:
     <img height="40" align="left" alt="sql" src="img/icons/sql.png" />
 </a>
 
+<a href="https://getbootstrap.com/">
+    <img height="40" align="left" alt="cpp" src="img/icons/bootstrap.png" />
+</a>
+
+
 <br />
 <br />
 
