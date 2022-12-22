@@ -42,6 +42,9 @@ Skill:
     <img height="40" align="left" alt="cpp" src="img/icons/bootstrap.png" />
 </a>
 
+<a href="https://en.wikipedia.org/wiki/CSS">
+    <img height="40" align="left" alt="cpp" src="img/icons/css.png" />
+</a>
 
 <br />
 <br />
