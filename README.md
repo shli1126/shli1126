@@ -14,6 +14,9 @@ Education:
 
 Skill:
 -----
+<a href="https://isocpp.org/">
+    <img height="40" align="left" alt="cpp" src="img/icons/cpp.png" />
+</a>
 
 <a href="https://www.java.com/en/">
     <img height="40" align="left" alt="java" src="img/icons/java.png" />
@@ -21,10 +24,6 @@ Skill:
 
 <a href="https://www.python.org/">
     <img height="40" align="left" alt="python" src="img/icons/python.png" />
-</a>
-
-<a href="https://isocpp.org/">
-    <img height="40" align="left" alt="cpp" src="img/icons/cpp.png" />
 </a>
 
 <a href="https://www.javascript.com/">
