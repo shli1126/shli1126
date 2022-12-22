@@ -1,4 +1,4 @@
-### Hi there, I am Richard👋
+### Hi there👋
 
 
 About me 
