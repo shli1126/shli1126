@@ -99,4 +99,7 @@ Here is my Top 10 movie list if you interested:
 <a href="https://github.com/shli1126/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shli1126&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Shaolong's github stats" /></a> 
 <a href="https://github.com/shli1126/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shli1126&layout=compact&theme=tokyonight&hide_border=true" /></a> 
 
-
+## Top repos
+<a href="https://github.com/shli1126/MyPortfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shli1126&repo=MyPortfolio&theme=tokyonight" />
+</a>
