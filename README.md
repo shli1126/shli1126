@@ -101,3 +101,6 @@ Here is my Top 10 movie list if you interested:
 <a href="https://github.com/shli1126/MyPortfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shli1126&repo=MyPortfolio&theme=tokyonight" />
 </a>
+<a href="https://github.com/shli1126/webScraper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shli1126&repo=webScraper&theme=tokyonight" />
+</a>
