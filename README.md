@@ -63,7 +63,7 @@ Fun Facts:
 
 :movie_camera: **My favorite movie**: Interstellar (Christopher Nolan, 2014)
 <br>
-Here is my Top 10 movie list if you interested:
+My Top 10 movies if you interested:
 <a href="https://www.douban.com/doulist/152247852/?dt_dapp=1">top 10 movies</a>
 
 
