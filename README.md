@@ -3,7 +3,8 @@
 
 About me 
 ----
-**My personal website :point_right: https://shli1126.github.io/**
+**My personal website :point_right: https://shli1126.github.io/** 
+<br>
 **Get connected on linkedin:point_right: https://www.linkedin.com/in/shaolong-li-0b067a224/**
 
 
