@@ -56,8 +56,8 @@ Skill:
 <img height="40" align="left" alt="cpp" src="img/icons/express.png" />
 
 <img height="40" align="left" alt="cpp" src="img/icons/mongo.png" />
-<br />
-<br />
+<br>
+<br>
 
 
 Fun Facts:
