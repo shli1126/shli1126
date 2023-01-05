@@ -55,7 +55,7 @@ Skill:
 </a>
 
 <a href="https://expressjs.com/">
-    <img height="40" align="left" alt="express" src="img/icons/express.png" />
+    <img height="50" align="left" alt="express" src="img/icons/express.png" />
 </a>
 
 <a href="https://www.mongodb.com/">
