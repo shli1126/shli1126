@@ -59,7 +59,6 @@ Skill:
 <br>
 <br>
 <br>
-<br>
 
 Fun Facts:
 -----
