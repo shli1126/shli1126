@@ -50,13 +50,21 @@ Skill:
     <img height="40" align="left" alt="cpp" src="img/icons/bootstrap.png" />
 </a>
 
-<img height="40" align="left" alt="node" src="img/icons/node.png" />
+<a href="https://nodejs.org/en/">
+    <img height="40" align="left" alt="node" src="img/icons/node.png" />
+</a>
 
-<img height="40" align="left" alt="express" src="img/icons/express.png" />
+<a href="https://expressjs.com/">
+    <img height="40" align="left" alt="express" src="img/icons/express.png" />
+</a>
 
-<img height="40" align="left" alt="mongo" src="img/icons/mongo.png" />
+<a href="https://www.mongodb.com/">
+    <img height="40" align="left" alt="mongo" src="img/icons/mongo.png" />
+</a>
 
-<img height="40" align="left" alt="bs" src="img/icons/beautifulsoup.png" />
+<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">
+    <img height="40" align="left" alt="bs" src="img/icons/beautifulsoup.png" />
+</a>
 <br>
 <br>
 <br>
