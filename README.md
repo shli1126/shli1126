@@ -60,7 +60,7 @@ Skill:
 <br>
 <br>
 <br>
-<br>
+
 Fun Facts:
 -----
 :musical_note: **My favorite band**: Radiohead
