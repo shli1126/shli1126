@@ -50,12 +50,13 @@ Skill:
     <img height="40" align="left" alt="cpp" src="img/icons/bootstrap.png" />
 </a>
 
+<img height="40" align="left" alt="node" src="img/icons/node.png" />
 
-<img height="40" align="left" alt="cpp" src="img/icons/node.png" />
+<img height="40" align="left" alt="express" src="img/icons/express.png" />
 
-<img height="40" align="left" alt="cpp" src="img/icons/express.png" />
+<img height="40" align="left" alt="mongo" src="img/icons/mongo.png" />
 
-<img height="40" align="left" alt="cpp" src="img/icons/mongo.png" />
+<img height="40" align="left" alt="bs" src="img/icons/beautifulsoup.png" />
 <br />
 <br />
 
