@@ -56,7 +56,7 @@ Skill:
 
 <img height="40" align="left" alt="mongo" src="img/icons/mongo.png" />
 
-<img height="40" align="left" alt="bs" src="img/icons/beautifulsoup.png" />
+<img height="40" align="left" alt="cpp" src="img/icons/mongo.png" />
 <br />
 <br />
 
