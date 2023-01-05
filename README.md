@@ -58,8 +58,9 @@ Skill:
 <img height="40" align="left" alt="cpp" src="img/icons/mongo.png" />
 <br>
 <br>
-
-
+<br>
+<br>
+<br>
 Fun Facts:
 -----
 :musical_note: **My favorite band**: Radiohead
