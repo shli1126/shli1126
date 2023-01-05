@@ -46,6 +46,11 @@ Skill:
     <img height="40" align="left" alt="cpp" src="img/icons/css.png" />
 </a>
 
+<img height="40" align="left" alt="cpp" src="img/icons/node.png" />
+
+<img height="40" align="left" alt="cpp" src="img/icons/express.png" />
+
+<img height="40" align="left" alt="cpp" src="img/icons/mongo.png" />
 <br />
 <br />
 
