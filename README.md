@@ -57,7 +57,7 @@ Skill:
 
 <img height="40" align="left" alt="cpp" src="img/icons/mongo.png" />
 <br />
-</n>
+<br />
 
 
 Fun Facts:
