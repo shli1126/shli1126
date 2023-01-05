@@ -63,7 +63,7 @@ Skill:
 </a>
 
 <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">
-    <img height="50" align="left" alt="bs" src="img/icons/beautifulsoup.png" />
+    <img height="60" align="left" alt="bs" src="img/icons/beautifulsoup.png" />
 </a>
 <br>
 <br>
