@@ -3,6 +3,10 @@
 
 About me 
 ----
+**My personal website :point_right: https://shli1126.github.io/** 
+<br>
+**Let's get connected on linkedin:point_right: https://www.linkedin.com/in/shaolong-li-0b067a224/**
+
 
 Education:
 -----
@@ -34,6 +38,10 @@ Skill:
     <img height="40" align="left" alt="html" src="img/icons/html.png" />
 </a>
 
+<a href="https://en.wikipedia.org/wiki/CSS">
+    <img height="40" align="left" alt="cpp" src="img/icons/css.png" />
+</a>
+
 <a href="https://en.wikipedia.org/wiki/SQL/">
     <img height="40" align="left" alt="sql" src="img/icons/sql.png" />
 </a>
@@ -42,9 +50,6 @@ Skill:
     <img height="40" align="left" alt="cpp" src="img/icons/bootstrap.png" />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/CSS">
-    <img height="40" align="left" alt="cpp" src="img/icons/css.png" />
-</a>
 
 <img height="40" align="left" alt="cpp" src="img/icons/node.png" />
 
@@ -55,26 +60,15 @@ Skill:
 <br />
 
 
-What I like:
+Fun Facts:
 -----
 :musical_note: **My favorite band**: Radiohead
 <br>
 <a href="https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb">Radiohead Spotify</a>
 
-
-:headphones: **My favorite album**: The Black Parade (My Chemical Romance, 2006)
-<br>
-<a href="https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK">The Black Parade MCR</a>
-
-
-:tv: **My favorite TV show**: Breaking Bad, Better Call Saul
-<br>
-<a href="https://www.imdb.com/title/tt0903747/">Breaking Bad</a>
-<a href="https://www.imdb.com/title/tt3032476/">Better Call Saul</a>
-
 :movie_camera: **My favorite movie**: Interstellar (Christopher Nolan, 2014)
 <br>
-Here is my Top 10 movie list if you interested:
+My Top 10 movies if you interested:
 <a href="https://www.douban.com/doulist/152247852/?dt_dapp=1">top 10 movies</a>
 
 
@@ -98,12 +92,15 @@ Here is my Top 10 movie list if you interested:
 <br />
 <br />
 
-## &#x1f4c8; Statistics
+## &#x1f4c8; Statistics and top repo
 
-<a href="https://github.com/shli1126/shli1126">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shli1126&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="shli1126's GitHub Stats" />
-</a>
+<a href="https://github.com/shli1126/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shli1126&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Shaolong's github stats" /></a> 
 
-<a href="https://github.com/shli1126/shli1126">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shli1126&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/shli1126/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shli1126&layout=compact&theme=tokyonight&hide_border=true" /></a> 
+
+<a href="https://github.com/shli1126/shli1126.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shli1126&repo=shli1126.github.io&theme=tokyonight" />
 </a>
+<!-- <a href="https://github.com/shli1126/webScraper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shli1126&repo=webScraper&theme=tokyonight" />
+</a> -->
