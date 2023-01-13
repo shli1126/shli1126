@@ -103,15 +103,9 @@ My Top 10 movies if you interested:
 <br />
 <br />
 
-## &#x1f4c8; Statistics and top repo
+## &#x1f4c8; Statistics
 
 <a href="https://github.com/shli1126/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shli1126&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Shaolong's github stats" /></a> 
 
 <a href="https://github.com/shli1126/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shli1126&layout=compact&theme=tokyonight&hide_border=true" /></a> 
 
-<a href="https://github.com/shli1126/shli1126.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shli1126&repo=shli1126.github.io&theme=tokyonight" />
-</a>
-<!-- <a href="https://github.com/shli1126/webScraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shli1126&repo=webScraper&theme=tokyonight" />
-</a> -->
