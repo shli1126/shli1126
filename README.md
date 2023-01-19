@@ -39,6 +39,8 @@ Skill:
 
 [![Gmail Badge](https://img.shields.io/badge/-shaolongli26@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:shaolongli26@gmail.com)](shaolongli26@gmail.com)
 
+[![Gmail Badge](https://img.shields.io/badge/-shli@ucsd.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:shli@ucsd.edu)](shli@ucsd.edu)
+
 ## &#x1f4c8; Statistics
 
 <a href="https://github.com/shli1126/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shli1126&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Shaolong's github stats" /></a> 
