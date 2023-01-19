@@ -31,16 +31,13 @@ Skill:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-<br>
+
 
 
 ## Contacts: 
-[![Linkedin Badge](https://img.shields.io/badge/-shli1126-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaolong-li-0b067a224/)](https://www.linkedin.com/in/shaolong-li-0b067a224/)
+[![Linkedin Badge](https://img.shields.io/badge/-Shaolong Li-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaolong-li-0b067a224/)](https://www.linkedin.com/in/shaolong-li-0b067a224/)
 
-<br />
-
-
-
+[![Gmail Badge](https://img.shields.io/badge/-shaolongli26@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:shaolongli26@gmail.com)](shaolongli26@gmail.com)
 
 ## &#x1f4c8; Statistics
 
