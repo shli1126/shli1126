@@ -65,6 +65,9 @@ Skill:
 <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">
     <img height="60" align="left" alt="bs" src="img/icons/beautifulsoup.png" />
 </a>
+
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+
 <br>
 <br>
 <br>
