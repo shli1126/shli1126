@@ -34,25 +34,11 @@ Skill:
 <br>
 
 
-## Social Media links: 
-<a href="https://instagram.com/shli_rili?igshid=YmMyMTA2M2Y=">
-    <img height="40" align="left" alt="Instagram" src="img/icons/instagram.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/shaolong-li-0b067a224/">
-    <img height="40" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-</a>
-
-<a href="https://open.spotify.com/user/epydajeacbzx3j99t1m064r08?si=e598ab36e99543bd">
-    <img height="40" align="left" alt="Instagram" src="img/icons/spotify.png" />
-</a>
-
-<a href="https://discordapp.com/users/728440690765463554">
-    <img height="40" align="left" alt="Instagram" src="img/icons/discord.png" />
-</a>
+## Contacts: 
+[![Linkedin Badge](https://img.shields.io/badge/-shli1126-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaolong-li-0b067a224/)](https://www.linkedin.com/in/shaolong-li-0b067a224/)
 
 <br />
-<br />
+
 
 
 
