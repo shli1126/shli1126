@@ -71,17 +71,6 @@ Skill:
 <br>
 <br>
 
-Fun Facts:
------
-:musical_note: **My favorite band**: Radiohead
-<br>
-<a href="https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb">Radiohead Spotify</a>
-
-:movie_camera: **My favorite movie**: Interstellar (Christopher Nolan, 2014)
-<br>
-My Top 10 movies if you interested:
-<a href="https://www.douban.com/doulist/152247852/?dt_dapp=1">top 10 movies</a>
-
 
 ## Social Media links: 
 <a href="https://instagram.com/shli_rili?igshid=YmMyMTA2M2Y=">
