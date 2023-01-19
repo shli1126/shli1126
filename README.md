@@ -35,7 +35,7 @@ Skill:
 
 
 ## Contacts: 
-[![Linkedin Badge](https://img.shields.io/badge/-Shaolong Li-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaolong-li-0b067a224/)](https://www.linkedin.com/in/shaolong-li-0b067a224/)
+[![Linkedin Badge](https://img.shields.io/badge/-Shaolong-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaolong-li-0b067a224/)](https://www.linkedin.com/in/shaolong-li-0b067a224/)
 
 [![Gmail Badge](https://img.shields.io/badge/-shaolongli26@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:shaolongli26@gmail.com)](shaolongli26@gmail.com)
 
