@@ -18,60 +18,10 @@ Education:
 
 Skill:
 -----
-<a href="https://isocpp.org/">
-    <img height="40" align="left" alt="cpp" src="img/icons/cpp.png" />
-</a>
-
-<a href="https://www.java.com/en/">
-    <img height="40" align="left" alt="java" src="img/icons/java.png" />
-</a>
-
-<a href="https://www.python.org/">
-    <img height="40" align="left" alt="python" src="img/icons/python.png" />
-</a>
-
-<a href="https://www.javascript.com/">
-    <img height="40" align="left" alt="javascript" src="img/icons/javascript.png" />
-</a>
-
-<a href="https://en.wikipedia.org/wiki/HTML">
-    <img height="40" align="left" alt="html" src="img/icons/html.png" />
-</a>
-
-<a href="https://en.wikipedia.org/wiki/CSS">
-    <img height="40" align="left" alt="cpp" src="img/icons/css.png" />
-</a>
-
-<a href="https://en.wikipedia.org/wiki/SQL/">
-    <img height="40" align="left" alt="sql" src="img/icons/sql.png" />
-</a>
-
-<a href="https://getbootstrap.com/">
-    <img height="40" align="left" alt="cpp" src="img/icons/bootstrap.png" />
-</a>
-
-<a href="https://nodejs.org/en/">
-    <img height="40" align="left" alt="node" src="img/icons/node.png" />
-</a>
-
-<a href="https://expressjs.com/">
-    <img height="50" align="left" alt="express" src="img/icons/express.png" />
-</a>
-
-<a href="https://www.mongodb.com/">
-    <img height="40" align="left" alt="mongo" src="img/icons/mongo.png" />
-</a>
-
-<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">
-    <img height="60" align="left" alt="bs" src="img/icons/beautifulsoup.png" />
-</a>
 
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
-<br>
-<br>
-<br>
-<br>
+
 <br>
 
 
