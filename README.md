@@ -1,7 +1,4 @@
-## Hi there👋
-
-
-About me 
+Info
 ----
 **My personal website :point_right: https://shli1126.github.io/** 
 <br>
