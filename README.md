@@ -34,7 +34,6 @@ Skill:
 
 [![Gmail Badge](https://img.shields.io/badge/-shaolongli26@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:shaolongli26@gmail.com)](shaolongli26@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/-shli@ucsd.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:shli@ucsd.edu)](shli@ucsd.edu)
 
 ## &#x1f4c8; Statistics
 
