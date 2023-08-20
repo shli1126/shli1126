@@ -43,5 +43,6 @@ Skill:
 
 <a href="https://github.com/shli1126/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shli1126&theme=dark&show_icons=true" alt="Shaolong's github stats" /></a> 
 
-<a href="https://github.com/shli1126/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shli1126&layout=compact&theme=tokyonight&hide_border=true" /></a> 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=shli1126&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shli1126&hide=TeX&layout=compact)
 
