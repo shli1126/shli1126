@@ -31,7 +31,7 @@ Skill:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shli1126)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contacts: 
 [![Linkedin Badge](https://img.shields.io/badge/-Shaolong-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaolong-li-0b067a224/)](https://www.linkedin.com/in/shaolong-li-0b067a224/)
