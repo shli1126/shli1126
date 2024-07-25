@@ -4,8 +4,8 @@
 
 Education:
 -----
-[**University of California San Diego**][ur] Cognitive Science/Spec Machine Learning '23  
-[**University of California San Diego**][ur] MSCS 
+[**University of California San Diego**][ur] BS in Cognitive Science/Spec Machine Learning '23  
+[**University of California San Diego**][ur] MS in Computer Science '25
 
 [ur]: https://ucsd.edu/
 
