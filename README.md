@@ -33,8 +33,5 @@ Skill:
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 
-## Contacts: 
-[![Gmail Badge](https://img.shields.io/badge/-shaolongli26@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:shaolongli26@gmail.com)](shaolongli26@gmail.com)
-
 
 
